@@ -1,0 +1,16 @@
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net5.0\Prototype.exe
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net5.0\Prototype.dll
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\net5.0\Prototype.pdb
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\Prototype.dll
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\Prototype.pdb
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
+C:\Users\taef_\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\net5.0\Prototype.csprojAssemblyReference.cache
