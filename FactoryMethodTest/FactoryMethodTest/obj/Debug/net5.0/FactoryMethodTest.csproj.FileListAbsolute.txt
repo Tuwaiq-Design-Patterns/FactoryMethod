@@ -1,0 +1,16 @@
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\bin\Debug\net5.0\FactoryMethodTest.exe
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\bin\Debug\net5.0\FactoryMethodTest.deps.json
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\bin\Debug\net5.0\FactoryMethodTest.runtimeconfig.json
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\bin\Debug\net5.0\FactoryMethodTest.runtimeconfig.dev.json
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\bin\Debug\net5.0\FactoryMethodTest.dll
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\bin\Debug\net5.0\ref\FactoryMethodTest.dll
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\bin\Debug\net5.0\FactoryMethodTest.pdb
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\FactoryMethodTest.csprojAssemblyReference.cache
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\FactoryMethodTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\FactoryMethodTest.AssemblyInfoInputs.cache
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\FactoryMethodTest.AssemblyInfo.cs
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\FactoryMethodTest.csproj.CoreCompileInputs.cache
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\FactoryMethodTest.dll
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\ref\FactoryMethodTest.dll
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\FactoryMethodTest.pdb
+D:\Developing\Rider\projects\FactoryMethodTest\FactoryMethodTest\obj\Debug\net5.0\FactoryMethodTest.genruntimeconfig.cache
