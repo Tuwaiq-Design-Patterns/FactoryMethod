@@ -1,0 +1,16 @@
+C:\Users\Ranee\source\repos\Avocado\Avocado\bin\Debug\net5.0\Avocado.exe
+C:\Users\Ranee\source\repos\Avocado\Avocado\bin\Debug\net5.0\Avocado.deps.json
+C:\Users\Ranee\source\repos\Avocado\Avocado\bin\Debug\net5.0\Avocado.runtimeconfig.json
+C:\Users\Ranee\source\repos\Avocado\Avocado\bin\Debug\net5.0\Avocado.runtimeconfig.dev.json
+C:\Users\Ranee\source\repos\Avocado\Avocado\bin\Debug\net5.0\Avocado.dll
+C:\Users\Ranee\source\repos\Avocado\Avocado\bin\Debug\net5.0\ref\Avocado.dll
+C:\Users\Ranee\source\repos\Avocado\Avocado\bin\Debug\net5.0\Avocado.pdb
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\Avocado.csprojAssemblyReference.cache
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\Avocado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\Avocado.AssemblyInfoInputs.cache
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\Avocado.AssemblyInfo.cs
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\Avocado.csproj.CoreCompileInputs.cache
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\Avocado.dll
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\ref\Avocado.dll
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\Avocado.pdb
+C:\Users\Ranee\source\repos\Avocado\Avocado\obj\Debug\net5.0\Avocado.genruntimeconfig.cache
