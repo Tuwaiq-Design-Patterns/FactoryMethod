@@ -1,0 +1,12 @@
+/Users/rook/Projects/DesignFactory/DesignFactory/bin/Debug/netcoreapp3.1/DesignFactory.deps.json
+/Users/rook/Projects/DesignFactory/DesignFactory/bin/Debug/netcoreapp3.1/DesignFactory.runtimeconfig.json
+/Users/rook/Projects/DesignFactory/DesignFactory/bin/Debug/netcoreapp3.1/DesignFactory.runtimeconfig.dev.json
+/Users/rook/Projects/DesignFactory/DesignFactory/bin/Debug/netcoreapp3.1/DesignFactory.dll
+/Users/rook/Projects/DesignFactory/DesignFactory/bin/Debug/netcoreapp3.1/DesignFactory.pdb
+/Users/rook/Projects/DesignFactory/DesignFactory/obj/Debug/netcoreapp3.1/DesignFactory.csprojAssemblyReference.cache
+/Users/rook/Projects/DesignFactory/DesignFactory/obj/Debug/netcoreapp3.1/DesignFactory.AssemblyInfoInputs.cache
+/Users/rook/Projects/DesignFactory/DesignFactory/obj/Debug/netcoreapp3.1/DesignFactory.AssemblyInfo.cs
+/Users/rook/Projects/DesignFactory/DesignFactory/obj/Debug/netcoreapp3.1/DesignFactory.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/DesignFactory/DesignFactory/obj/Debug/netcoreapp3.1/DesignFactory.dll
+/Users/rook/Projects/DesignFactory/DesignFactory/obj/Debug/netcoreapp3.1/DesignFactory.pdb
+/Users/rook/Projects/DesignFactory/DesignFactory/obj/Debug/netcoreapp3.1/DesignFactory.genruntimeconfig.cache
