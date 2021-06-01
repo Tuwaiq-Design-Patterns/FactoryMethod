@@ -1,0 +1,16 @@
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\bin\Debug\net5.0\FactoryMethodDemo.exe
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\bin\Debug\net5.0\FactoryMethodDemo.deps.json
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\bin\Debug\net5.0\FactoryMethodDemo.runtimeconfig.json
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\bin\Debug\net5.0\FactoryMethodDemo.runtimeconfig.dev.json
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\bin\Debug\net5.0\FactoryMethodDemo.dll
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\bin\Debug\net5.0\ref\FactoryMethodDemo.dll
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\bin\Debug\net5.0\FactoryMethodDemo.pdb
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\FactoryMethodDemo.csprojAssemblyReference.cache
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\FactoryMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\FactoryMethodDemo.AssemblyInfoInputs.cache
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\FactoryMethodDemo.AssemblyInfo.cs
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\FactoryMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\FactoryMethodDemo.dll
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\ref\FactoryMethodDemo.dll
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\FactoryMethodDemo.pdb
+C:\Users\IBRA\RiderProjects\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\net5.0\FactoryMethodDemo.genruntimeconfig.cache
