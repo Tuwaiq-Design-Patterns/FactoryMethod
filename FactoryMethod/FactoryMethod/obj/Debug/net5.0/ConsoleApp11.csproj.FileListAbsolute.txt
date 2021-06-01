@@ -1,0 +1,16 @@
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.exe
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.deps.json
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.runtimeconfig.json
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.dll
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ref\ConsoleApp11.dll
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net5.0\ConsoleApp11.pdb
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.dll
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ref\ConsoleApp11.dll
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.pdb
+C:\Users\Taghr\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net5.0\ConsoleApp11.genruntimeconfig.cache
