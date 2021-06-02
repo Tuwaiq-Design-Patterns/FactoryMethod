@@ -1,0 +1,16 @@
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\Factory.csprojAssemblyReference.cache
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\Factory.AssemblyInfoInputs.cache
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\Factory.AssemblyInfo.cs
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\RiderProjects\Factory\Factory\bin\Debug\net5.0\Factory.exe
+C:\Users\lenovo1\RiderProjects\Factory\Factory\bin\Debug\net5.0\Factory.deps.json
+C:\Users\lenovo1\RiderProjects\Factory\Factory\bin\Debug\net5.0\Factory.runtimeconfig.json
+C:\Users\lenovo1\RiderProjects\Factory\Factory\bin\Debug\net5.0\Factory.runtimeconfig.dev.json
+C:\Users\lenovo1\RiderProjects\Factory\Factory\bin\Debug\net5.0\Factory.dll
+C:\Users\lenovo1\RiderProjects\Factory\Factory\bin\Debug\net5.0\ref\Factory.dll
+C:\Users\lenovo1\RiderProjects\Factory\Factory\bin\Debug\net5.0\Factory.pdb
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\Factory.dll
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\ref\Factory.dll
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\Factory.pdb
+C:\Users\lenovo1\RiderProjects\Factory\Factory\obj\Debug\net5.0\Factory.genruntimeconfig.cache
