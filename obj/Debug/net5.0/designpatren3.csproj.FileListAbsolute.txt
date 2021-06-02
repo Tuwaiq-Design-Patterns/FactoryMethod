@@ -1,0 +1,16 @@
+C:\Users\amalf\source\repos\designpatren3\bin\Debug\net5.0\designpatren3.exe
+C:\Users\amalf\source\repos\designpatren3\bin\Debug\net5.0\designpatren3.deps.json
+C:\Users\amalf\source\repos\designpatren3\bin\Debug\net5.0\designpatren3.runtimeconfig.json
+C:\Users\amalf\source\repos\designpatren3\bin\Debug\net5.0\designpatren3.runtimeconfig.dev.json
+C:\Users\amalf\source\repos\designpatren3\bin\Debug\net5.0\designpatren3.dll
+C:\Users\amalf\source\repos\designpatren3\bin\Debug\net5.0\ref\designpatren3.dll
+C:\Users\amalf\source\repos\designpatren3\bin\Debug\net5.0\designpatren3.pdb
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\designpatren3.csprojAssemblyReference.cache
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\designpatren3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\designpatren3.AssemblyInfoInputs.cache
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\designpatren3.AssemblyInfo.cs
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\designpatren3.csproj.CoreCompileInputs.cache
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\designpatren3.dll
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\ref\designpatren3.dll
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\designpatren3.pdb
+C:\Users\amalf\source\repos\designpatren3\obj\Debug\net5.0\designpatren3.genruntimeconfig.cache
