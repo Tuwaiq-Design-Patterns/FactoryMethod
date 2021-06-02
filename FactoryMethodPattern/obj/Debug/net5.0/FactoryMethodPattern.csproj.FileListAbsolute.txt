@@ -1,0 +1,16 @@
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.exe
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.deps.json
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.runtimeconfig.dev.json
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.dll
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net5.0\ref\FactoryMethodPattern.dll
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.pdb
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.csprojAssemblyReference.cache
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.dll
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\ref\FactoryMethodPattern.dll
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.pdb
+C:\Users\F-LOW\source\repos\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.genruntimeconfig.cache
