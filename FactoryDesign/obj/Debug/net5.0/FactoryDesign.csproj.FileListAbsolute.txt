@@ -1,0 +1,16 @@
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\bin\Debug\net5.0\FactoryDesign.exe
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\bin\Debug\net5.0\FactoryDesign.deps.json
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\bin\Debug\net5.0\FactoryDesign.runtimeconfig.json
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\bin\Debug\net5.0\FactoryDesign.runtimeconfig.dev.json
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\bin\Debug\net5.0\FactoryDesign.dll
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\bin\Debug\net5.0\ref\FactoryDesign.dll
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\bin\Debug\net5.0\FactoryDesign.pdb
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\FactoryDesign.csprojAssemblyReference.cache
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\FactoryDesign.AssemblyInfoInputs.cache
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\FactoryDesign.AssemblyInfo.cs
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\FactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\FactoryDesign.dll
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\ref\FactoryDesign.dll
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\FactoryDesign.pdb
+C:\Users\a-22_\RiderProjects\FactoryDesign\FactoryDesign\obj\Debug\net5.0\FactoryDesign.genruntimeconfig.cache
