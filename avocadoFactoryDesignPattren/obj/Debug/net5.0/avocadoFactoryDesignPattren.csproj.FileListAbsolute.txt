@@ -1,0 +1,16 @@
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\bin\Debug\net5.0\avocadoFactoryDesignPattren.exe
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\bin\Debug\net5.0\avocadoFactoryDesignPattren.deps.json
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\bin\Debug\net5.0\avocadoFactoryDesignPattren.runtimeconfig.json
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\bin\Debug\net5.0\avocadoFactoryDesignPattren.runtimeconfig.dev.json
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\bin\Debug\net5.0\avocadoFactoryDesignPattren.dll
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\bin\Debug\net5.0\ref\avocadoFactoryDesignPattren.dll
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\bin\Debug\net5.0\avocadoFactoryDesignPattren.pdb
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\avocadoFactoryDesignPattren.csprojAssemblyReference.cache
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\avocadoFactoryDesignPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\avocadoFactoryDesignPattren.AssemblyInfoInputs.cache
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\avocadoFactoryDesignPattren.AssemblyInfo.cs
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\avocadoFactoryDesignPattren.csproj.CoreCompileInputs.cache
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\avocadoFactoryDesignPattren.dll
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\ref\avocadoFactoryDesignPattren.dll
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\avocadoFactoryDesignPattren.pdb
+C:\Users\Norah\source\repos\avocadoFactoryDesignPattren\avocadoFactoryDesignPattren\obj\Debug\net5.0\avocadoFactoryDesignPattren.genruntimeconfig.cache
