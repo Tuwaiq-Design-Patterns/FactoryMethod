@@ -1,0 +1,15 @@
+/Users/afra/Projects/factoryMethod/factoryMethod/bin/Debug/net5.0/factoryMethod.deps.json
+/Users/afra/Projects/factoryMethod/factoryMethod/bin/Debug/net5.0/factoryMethod.runtimeconfig.json
+/Users/afra/Projects/factoryMethod/factoryMethod/bin/Debug/net5.0/factoryMethod.runtimeconfig.dev.json
+/Users/afra/Projects/factoryMethod/factoryMethod/bin/Debug/net5.0/factoryMethod.dll
+/Users/afra/Projects/factoryMethod/factoryMethod/bin/Debug/net5.0/ref/factoryMethod.dll
+/Users/afra/Projects/factoryMethod/factoryMethod/bin/Debug/net5.0/factoryMethod.pdb
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/factoryMethod.csprojAssemblyReference.cache
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/factoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/factoryMethod.AssemblyInfoInputs.cache
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/factoryMethod.AssemblyInfo.cs
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/factoryMethod.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/factoryMethod.dll
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/ref/factoryMethod.dll
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/factoryMethod.pdb
+/Users/afra/Projects/factoryMethod/factoryMethod/obj/Debug/net5.0/factoryMethod.genruntimeconfig.cache
