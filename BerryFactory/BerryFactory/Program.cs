@@ -34,7 +34,7 @@ namespace BerryFactory
             return "No berries are avaliable at this time of year...";
         }
     }
-    class Creator
+    class FruitStore
     {
         public static IBerry FactoryMethod(int month)
         {
@@ -57,13 +57,13 @@ namespace BerryFactory
         {
             IBerry _Berry;
 
-            _Berry = Creator.FactoryMethod(1);
+            _Berry = FruitStore.FactoryMethod(1);
             Console.WriteLine(_Berry.delivery());
 
-            _Berry = Creator.FactoryMethod(5);
+            _Berry = FruitStore.FactoryMethod(5);
             Console.WriteLine(_Berry.delivery());
 
-            _Berry = Creator.FactoryMethod(8);
+            _Berry = FruitStore.FactoryMethod(8);
             Console.WriteLine(_Berry.delivery());
         }
     }
