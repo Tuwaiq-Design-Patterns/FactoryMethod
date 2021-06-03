@@ -1,0 +1,16 @@
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\bin\Debug\net5.0\Class0601-DesignPattern.exe
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\bin\Debug\net5.0\Class0601-DesignPattern.deps.json
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\bin\Debug\net5.0\Class0601-DesignPattern.runtimeconfig.json
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\bin\Debug\net5.0\Class0601-DesignPattern.runtimeconfig.dev.json
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\bin\Debug\net5.0\Class0601-DesignPattern.dll
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\bin\Debug\net5.0\ref\Class0601-DesignPattern.dll
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\bin\Debug\net5.0\Class0601-DesignPattern.pdb
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\Class0601-DesignPattern.csprojAssemblyReference.cache
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\Class0601-DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\Class0601-DesignPattern.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\Class0601-DesignPattern.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\Class0601-DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\Class0601-DesignPattern.dll
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\ref\Class0601-DesignPattern.dll
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\Class0601-DesignPattern.pdb
+C:\Users\Abdullah\source\repos\Class0601-DesignPattern\Class0601-DesignPattern\obj\Debug\net5.0\Class0601-DesignPattern.genruntimeconfig.cache
