@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B3F37EEA-7C38-4C82-A55B-A20FAEAB04B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryProject/Creator.cs">
+    <Files>
+      <File FileName="FactoryProject/Program.cs" Line="9" Column="55" />
+      <File FileName="FactoryProject/Creator.cs" Line="4" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryProject" expanded="True">
+            <Node name="FactoryProject" expanded="True">
+              <Node name="Creator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FactoryProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

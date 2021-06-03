@@ -1,0 +1,15 @@
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.deps.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.runtimeconfig.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.runtimeconfig.dev.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/bin/Debug/net5.0/ref/FactoryProject.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/bin/Debug/net5.0/FactoryProject.pdb
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.csprojAssemblyReference.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.AssemblyInfoInputs.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.AssemblyInfo.cs
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.csproj.CoreCompileInputs.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/ref/FactoryProject.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.pdb
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/FactoryProject/FactoryProject/obj/Debug/net5.0/FactoryProject.genruntimeconfig.cache
