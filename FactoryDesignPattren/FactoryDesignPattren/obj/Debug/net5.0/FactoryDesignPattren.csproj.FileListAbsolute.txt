@@ -1,0 +1,16 @@
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\bin\Debug\net5.0\FactoryDesignPattren.exe
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\bin\Debug\net5.0\FactoryDesignPattren.deps.json
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\bin\Debug\net5.0\FactoryDesignPattren.runtimeconfig.json
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\bin\Debug\net5.0\FactoryDesignPattren.runtimeconfig.dev.json
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\bin\Debug\net5.0\FactoryDesignPattren.dll
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\bin\Debug\net5.0\ref\FactoryDesignPattren.dll
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\bin\Debug\net5.0\FactoryDesignPattren.pdb
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\FactoryDesignPattren.csprojAssemblyReference.cache
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\FactoryDesignPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\FactoryDesignPattren.AssemblyInfoInputs.cache
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\FactoryDesignPattren.AssemblyInfo.cs
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\FactoryDesignPattren.csproj.CoreCompileInputs.cache
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\FactoryDesignPattren.dll
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\ref\FactoryDesignPattren.dll
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\FactoryDesignPattren.pdb
+C:\Users\h--sa\RiderProjects\FactoryDesignPattren\FactoryDesignPattren\obj\Debug\net5.0\FactoryDesignPattren.genruntimeconfig.cache
