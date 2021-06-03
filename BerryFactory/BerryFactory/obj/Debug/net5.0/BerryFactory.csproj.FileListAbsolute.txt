@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\bin\Debug\net5.0\BerryFactory.exe
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\bin\Debug\net5.0\BerryFactory.deps.json
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\bin\Debug\net5.0\BerryFactory.runtimeconfig.json
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\bin\Debug\net5.0\BerryFactory.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\bin\Debug\net5.0\BerryFactory.dll
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\bin\Debug\net5.0\ref\BerryFactory.dll
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\bin\Debug\net5.0\BerryFactory.pdb
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\BerryFactory.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\BerryFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\BerryFactory.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\BerryFactory.AssemblyInfo.cs
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\BerryFactory.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\BerryFactory.dll
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\ref\BerryFactory.dll
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\BerryFactory.pdb
+C:\Users\Reema\source\repos\FactoryMethod\BerryFactory\BerryFactory\obj\Debug\net5.0\BerryFactory.genruntimeconfig.cache
