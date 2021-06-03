@@ -1,0 +1,16 @@
+D:\repos\FactoryApp\FactoryApp\bin\Debug\net5.0\FactoryApp.exe
+D:\repos\FactoryApp\FactoryApp\bin\Debug\net5.0\FactoryApp.deps.json
+D:\repos\FactoryApp\FactoryApp\bin\Debug\net5.0\FactoryApp.runtimeconfig.json
+D:\repos\FactoryApp\FactoryApp\bin\Debug\net5.0\FactoryApp.runtimeconfig.dev.json
+D:\repos\FactoryApp\FactoryApp\bin\Debug\net5.0\FactoryApp.dll
+D:\repos\FactoryApp\FactoryApp\bin\Debug\net5.0\ref\FactoryApp.dll
+D:\repos\FactoryApp\FactoryApp\bin\Debug\net5.0\FactoryApp.pdb
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\FactoryApp.csprojAssemblyReference.cache
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\FactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\FactoryApp.AssemblyInfoInputs.cache
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\FactoryApp.AssemblyInfo.cs
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\FactoryApp.csproj.CoreCompileInputs.cache
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\FactoryApp.dll
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\ref\FactoryApp.dll
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\FactoryApp.pdb
+D:\repos\FactoryApp\FactoryApp\obj\Debug\net5.0\FactoryApp.genruntimeconfig.cache
