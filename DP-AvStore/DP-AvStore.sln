@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP-AvStore", "DP-AvStore\DP-AvStore.csproj", "{5108432E-5869-4F5A-9AE8-DAC91DB1EB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5108432E-5869-4F5A-9AE8-DAC91DB1EB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5108432E-5869-4F5A-9AE8-DAC91DB1EB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5108432E-5869-4F5A-9AE8-DAC91DB1EB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5108432E-5869-4F5A-9AE8-DAC91DB1EB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C49A59C8-CAB0-492D-9A27-8A8B925D6F46}
+	EndGlobalSection
+EndGlobal

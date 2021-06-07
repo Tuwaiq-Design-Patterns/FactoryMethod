@@ -1,0 +1,30 @@
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.exe
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.deps.json
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.runtimeconfig.json
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.dll
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\bin\Debug\net5.0\ref\DP-AvStore.dll
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.pdb
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.dll
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\obj\Debug\net5.0\ref\DP-AvStore.dll
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.pdb
+C:\Users\Yasmin\source\repos\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.genruntimeconfig.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.exe
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.deps.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.runtimeconfig.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.runtimeconfig.dev.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\bin\Debug\net5.0\ref\DP-AvStore.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\bin\Debug\net5.0\DP-AvStore.pdb
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.AssemblyInfoInputs.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.AssemblyInfo.cs
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\obj\Debug\net5.0\ref\DP-AvStore.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.pdb
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AvStore\DP-AvStore\obj\Debug\net5.0\DP-AvStore.genruntimeconfig.cache
